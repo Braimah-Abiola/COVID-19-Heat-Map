@@ -1,8 +1,8 @@
 # COVID-19 HEAT MAP - GHANA
 ## Heat Map showing places / regions affected with covid-19 in Ghana
-__
+___
 #### This is a data visualisation project made with Python
-__
+___
 
 ### Project Description:
 The map of Ghana with heat maps showing areas affected the most with COVID-19.
@@ -12,7 +12,7 @@ Pressing an affected area shows the total tests, confirmed cases, recoveries and
 
 Have fun
 
-__
+___
 
 ## Video Tutorial
 
